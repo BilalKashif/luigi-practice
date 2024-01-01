@@ -22,6 +22,7 @@ luigi-task-history/
 
 # Editor-specific
 .vscode/
+.idea/
 
 # Ignore local development settings
 .env.local

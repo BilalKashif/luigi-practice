@@ -7,6 +7,7 @@ In this project a simple pipeline is created using Luigi. The pipeline consists 
 **I've added 10seconds delay in the tasks to see the pipeline visualization.**
 
 ## 2. Running the pipeline
+**Python version 3.12.0**  
 First install the dependencies using `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
